@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Cozy Airbnb Apartment",
+        "location": "New York, USA",
+        "description": "Immerse yourself in the bustling energy of New York City in this stylish, spacious apartment. Sleeps up to 6 people and includes modern amenities such as Wi-Fi, air conditioning, and a fully-equipped kitchen.",
+        "image": "https://i.pinimg.com/564x/50/d7/1e/50d71e45808e4e4ab234a51ff3ebdce5.jpg",
+        "price_usd": 120,
+        "date": "2021-08-10",
+        
+    },
+    {
+        "name": "Urban Oasis in the City",
+        "location": "Los Angeles, USA",
+        "description": "Experience the best of Los Angeles at this spacious apartment located in the heart of the city. The apartment offers modern amenities and is perfectly situated for exploring LA. Sleeps up to 8 people.",
+        "image": "https://i.pinimg.com/564x/63/14/d7/6314d779d4fa905832b862d809509d4c.jpg",
+        "price_usd": 200,
+        "date": "2021-08-10",
+        
+    },
+    {
+        "name": "Sunny Beachfront Villa",
+        "location": "Miami, USA",
+        "description": "Relax in luxury at this beachfront villa in Miami. Enjoy breathtaking views, a private pool, and direct beach access. Ideal for a family vacation or a romantic getaway for two.",
+        "image": "https://i.pinimg.com/564x/bd/ce/32/bdce322557bd4755fb1f155d6ebf6300.jpg",
+        "price_usd": 300,
+        "date": "2021-08-15",
+        
+    },
+    {
+        "name": "Mountain Cabin Retreat",
+        "location": "Denver, USA",
+        "description": "Escape to the tranquility of the mountains with this cozy cabin retreat. Perfect for nature lovers, this cabin offers hiking trails, a fireplace, and stunning mountain views.",
+        "image": "https://i.pinimg.com/564x/12/81/58/1281580d0f8620d90024aed6be184bac.jpg",
+        "price_usd": 150,
+        "date": "2021-08-20",
+        
+    },
+    {
+        "name": "Historic City Center Loft",
+        "location": "Paris, France",
+        "description": "Stay in the heart of Paris in this historic city center loft. Walking distance to major attractions, this loft features exposed brick walls, modern amenities, and charming Parisian ambiance.",
+        "image": "https://i.pinimg.com/564x/ac/39/38/ac3938aedcac0b9d8827f0289bae70f8.jpg",
+        "price_usd": 180,
+        "date": "2021-08-25",
+        
+    },
+    {
+        "name": "Secluded Forest Cabin",
+        "location": "Vancouver, Canada",
+        "description": "Experience serenity in this secluded forest cabin near Vancouver. Surrounded by nature, this cabin offers a peaceful retreat with hiking trails, a fireplace, and a private deck.",
+        "image": "https://i.pinimg.com/564x/08/01/29/08012908ad773b2ce1b630c9b66b9a12.jpg",
+        "price_usd": 130,
+        "date": "2021-08-30",
+        
+    },
+    {
+        "name": "Luxury Lakeside Villa",
+        "location": "Como, Italy",
+        "description": "Indulge in luxury at this lakeside villa on Lake Como. Enjoy stunning views, a private dock, and beautifully landscaped gardens. Ideal for a romantic escape or a family vacation.",
+        "image": "https://i.pinimg.com/564x/9d/f3/81/9df38119dda63726e4867862a83d134c.jpg",
+        "price_usd": 250,
+        "date": "2021-09-05",
+       
+    },
+    {
+        "name": "Modern City View Penthouse",
+        "location": "Tokyo, Japan",
+        "description": "Experience the vibrant energy of Tokyo in this modern city view penthouse. Located in the heart of the city, this penthouse offers panoramic views, sleek design, and upscale amenities.",
+        "image": "https://i.pinimg.com/564x/99/aa/70/99aa700e8fa3da6e3a04dae840a2b03d.jpg",
+        "price_usd": 220,
+        "date": "2021-09-10",
+        
+    },
+    {
+        "name": "Beachfront Paradise House",
+        "location": "Sydney, Australia",
+        "description": "Escape to paradise with this beachfront house in Sydney. Enjoy direct beach access, a private pool, and breathtaking ocean views. Perfect for a relaxing getaway.",
+        "image": "https://i.pinimg.com/564x/ee/30/79/ee3079358d838b9966eca14668be04a4.jpg",
+        "price_usd": 280,
+        "date": "2021-09-15",
+        
+    },
+    {
+        "name": "Rustic Mountain Lodge",
+        "location": "Banff, Canada",
+        "description": "Experience the charm of a rustic mountain lodge in Banff. Surrounded by the beauty of the Canadian Rockies, this lodge offers a cozy fireplace, hiking trails, and stunning views.",
+        "image": "https://i.pinimg.com/564x/f1/9a/ee/f19aee5fbc6e9b8d467ab3b4ac2e3684.jpg",
+        "price_usd": 170,
+        "date": "2021-09-20",
+        
+    },
+    {
+        "name": "Charming Canal House",
+        "location": "Amsterdam, Netherlands",
+        "description": "Immerse yourself in the charm of Amsterdam with this canal house. Located in a picturesque neighborhood, this house features classic Dutch architecture and modern amenities.",
+        "image": "https://i.pinimg.com/564x/67/f3/66/67f3662eaedb889adc0ae7ffca48861b.jpg",
+        "price_usd": 190,
+        "date": "2021-09-25",
+       
+    },
+    {
+        "name": "Ski Chalet Retreat",
+        "location": "Zermatt, Switzerland",
+        "description": "Escape to the Swiss Alps with this ski chalet retreat in Zermatt. Enjoy world-class skiing, a cozy fireplace, and panoramic mountain views.",
+        "image": "https://i.pinimg.com/564x/39/ba/b3/39bab3395caf04c337f34b93a7c981d5.jpg",
+        "price_usd": 260,
+        "date": "2021-09-30",
+       
+    },
+    {
+        "name": "Historic Old Town House",
+        "location": "Edinburgh, Scotland",
+        "description": "Step back in time with this historic old town house in Edinburgh. Located in the heart of the city, this house offers a unique blend of history and modern comfort.",
+        "image": "https://i.pinimg.com/564x/d5/d8/e4/d5d8e469de4b6059d40f1d6fbca198ff.jpg",
+        "price_usd": 160,
+        "date": "2021-10-05",
+        
+    },
+     {
+        "name": "Serenity by the Lake",
+        "location": "Edinburgh, Scotland",
+        "description": "Enjoy tranquility with this lakeside retreat in Edinburgh. Located in the heart of the city, this house offers a unique blend of history and modern comfort.",
+        "image": "https://i.pinimg.com/564x/ef/d1/b8/efd1b8f2e163f95aa61bb9102138afd8.jpg",
+        "price_usd": 160,
+        "date": "2021-10-05"
+    }
+]
